@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ys_task_dalia_nasser</string>
+    <string name="login">Login</string>
+    <string name="pin_request">Please Enter your PIN code to login</string>
+    <string name="orders">Orders</string>
+    <string name="history">History</string>
+    <string name="summry">Summary</string>
+    <string name="txt_new">New</string>
+    <string name="delay">Delayed</string>
+    <string name="changed">Changed</string>
+    <string name="canceled">Canceled</string>
+    <string name="Language">Language</string>
+    <string name="Logout">Logout</string>
+    <string name="Order_type">Order type</string>
+    <string name="time_taken">Time taken</string>
+    <string name="Dine_in">Dine in</string>
+
+</resources>
